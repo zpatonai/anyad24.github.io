@@ -12,9 +12,11 @@ h3{color:darkolivegreen }
 
 #másodikH3 {color: deeppink;}
 
-html{background-color: rgb(153, 153, 153);
-background-image: url(/img/szarka.JPG) ;
+html{background-color: rgb(252, 252, 252);
+background-image: url() ;
 background-position: left;
 background-repeat: no-repeat;
 
 }
+.login_div {padding: 15px; display:inline-block; border: solid; box-shadow: 0 0 2px gray ;}
+.login_div button:hover { box-shadow: 2px 2px 3px coral;}
