@@ -2,7 +2,7 @@
      border: solid;border-color: rgb(212, 212, 212) ;}
 
 .kontakt{display: block; margin: 3%;
-    border: solid;  border-color:rgb(212, 212, 212);padding: 2%;}     
+    border: solid;  border-color:rgb(212, 212, 212);padding: 2%; overflow: auto;}     
 .referencia{ display: block; margin: 3%;
     border: solid;  border-color:rgb(212, 212, 212);padding: 2%;}
 
