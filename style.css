@@ -1,22 +1,25 @@
-h1 {color: blue; text-align: center;
-}
-ul{ color: brown;
-}
-p{text-align: justify;font-size: 24px;font-weight: bold;margin: 30px;
-font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-}
+.munkatarsak { display: block; margin: 3%;padding: 2%;
+     border: solid;border-color: rgb(212, 212, 212) ;}
 
-img{ width: 300px;margin: 45px
-}
-h3{color:darkolivegreen }
+.kontakt{display: block; margin: 3%;
+    border: solid;  border-color:rgb(212, 212, 212);padding: 2%;}     
+.referencia{ display: block; margin: 3%;
+    border: solid;  border-color:rgb(212, 212, 212);padding: 2%;}
 
-#másodikH3 {color: deeppink;}
+img{display: block; margin-left: auto; margin-right: auto;width: 80%;}
 
-html{background-color: rgb(252, 252, 252);
-background-image: url() ;
-background-position: left;
-background-repeat: no-repeat;
+p{text-align: center;font-size: 20px;font-weight: bold;}
 
-}
-.login_div {padding: 15px; display:inline-block; border: solid; box-shadow: 0 0 2px gray ;}
-.login_div button:hover { box-shadow: 2px 2px 3px coral;}
+h1 { text-align: center;}
+
+h3{ text-align: justify; font-size: 24px;margin: 3%}
+
+html{background-color: rgb(163, 165, 164);}
+
+table{width: 80%;margin: auto;margin-bottom: 2%; }
+
+th, td {border-bottom: 1px solid #ddd;font-size: 20px; font-weight:bold;}
+
+caption{font-size: 20px; font-weight:bold;}
+
+li{font-size: 20px; font-weight:bold;}
